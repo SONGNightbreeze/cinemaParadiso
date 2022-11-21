@@ -1,8 +1,5 @@
 # cinemaParadiso
 
-Project for Track Dayil Expense and Budget Management
-
-support  language of Chinese and Italian
 
 ## Project Setup
 
